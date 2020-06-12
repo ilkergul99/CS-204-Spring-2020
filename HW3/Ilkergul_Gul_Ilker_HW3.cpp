@@ -9,9 +9,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
+
 Date = 03/09/2020
 CS204 Third Homework
 Purpose = Implement a program that stores blacklisted credit cards organized according to their expiration dates.
