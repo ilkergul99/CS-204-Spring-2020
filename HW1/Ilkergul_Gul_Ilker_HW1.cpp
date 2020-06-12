@@ -8,10 +8,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
-Date = 2/13/2020
+
 CS204 First Homework
 Purpose = This program is to determine an enclosed space in a 2D matrix containing the "x" and "o" elements
 and to display appropriate messages related to the content
