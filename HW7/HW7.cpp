@@ -6,9 +6,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
+
 Date = 5/5/2020
 CS204 Seventh Homework
 Purpose = Implement a program that encrypts given data
