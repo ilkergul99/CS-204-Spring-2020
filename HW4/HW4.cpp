@@ -7,9 +7,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
+
 Date = 3/22/2020
 CS204 Third Homework
 Purpose = Implement an "area filling" program which makes use of stack
