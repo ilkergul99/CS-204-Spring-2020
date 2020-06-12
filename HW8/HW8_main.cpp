@@ -12,9 +12,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
+
 Date = 05/09/2020
 CS204 Eighth Homework
 Purpose = To write a multithreaded C++ program that simulates a queue of customers
