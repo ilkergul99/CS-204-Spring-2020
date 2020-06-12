@@ -4,9 +4,7 @@ using namespace std;
 
 /******************************************************************************
 
-Username = ilkergul 
-Name, Surname = Ilker Gul
-ID Number = 26352
+
 Date = 4/12/2020
 CS204 Fifth Homework
 Purpose = Implement an IntegerSet class without using linkedlist
